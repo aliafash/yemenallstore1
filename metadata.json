@@ -1,0 +1,6 @@
+{
+  "name": "Yemen All Store",
+  "description": "A high-end modern e-commerce platform encompassing telecommunications, garments, cosmetics, gadgets, electronics, real estate, and public logistics inside Yemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
